@@ -1,0 +1,10 @@
+/*
+Name: Dhruv Bipinbhai Patel
+Student: 142572197
+Email: dbpatel31@myseneca.ca
+*\
+While working on this workshop, I learnt about member functions. Member functions provide communications between client code and objects of a class. I also learnt about calling a member function and hoe to use it in my code. I also learnt that a member function can access any of the other member within its class scope. 
+Member functions can also access a function outside its scope. 
+I learnt about accessibility labels. It is used to prohibit external access to any member or function. "Private" identifies all subsequent members listed in class as inaccessible. Whereas public identifies all subsequent members listed in the class as accessible. 
+I also learnt about empty state. It is used to gives us control over which data to accept, which data to reject and which to expose. If our data is invalid we can use empty state to store the default values. 
+I also learnt about some I/O functions such is width, fill, set and unsetf, and precision. 

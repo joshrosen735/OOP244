@@ -1,0 +1,11 @@
+Name: Dhruv Bipinbhai Patel
+Student#: 142572197
+StudentID: dbpatel31
+Date: 09/27/20
+
+While working on this workshop, the first thing I came across is the syntax of C++ programming language. I learnt about modular programming. It consists of a set of modules which are developed and tested separately. For example, in this workshop School.h and School.cpp formed a module. 
+Then I learnt about namespace. It is a used so variables inside a certain scope can bypass one definition rule. Without namespaces, we have to constantly keep track of variables that are being used. 
+Header files contain definitions of functions used in the project. 
+Then I learnt why we should not include .cpp files in another files. Including them, destroys the entire purpose of separating code into different modules. 
+By completing this workshop, I learnt the staying organized and working with modules is a great practice for object-oriented programming. 
+During this workshop, it took me a while to figure out the strstr function. 

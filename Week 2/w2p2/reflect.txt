@@ -1,0 +1,12 @@
+/*
+ "I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments."
+ Name: Dhruv Bipinbhai Patel
+ Email: dbpatel31@myseneca.ca
+ StudentID: 142572197
+ Date: 10/04/20
+*/
+
+While completing this workshop, I learnt about dynamic and static memory. I also learnt about allocating and deallocating dynamic memory in a C++ program. Dynamic memory is created by the operating system while execution whereas static memory is allocated by the operating system during load time. 
+I learnt about memory leaks as an important aspect in object oriented programming. It occurs when the address of dynamically allocated memory is lost by the application before it has been deallocated. 
+By allocating dynamic memory, we can save memory leaks. For example, if you want to store name of a student in an array named name[100] and the student's name only occupies 20 memory blocks from 100, then the rest 80 memory blocks is waste. To save this wastage, we can allot dynamic memory at the time of execution. 
+I faced some difficulty to get used to the format of allocating and deallocating memory at first. I also had some difficulties for figuring out that when I need to deallocated memory. 

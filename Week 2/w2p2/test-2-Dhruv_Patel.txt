@@ -1,0 +1,52 @@
+Name: Dhruv Bipinbhai Patel
+Student#: 142572197
+Email: dbpatel31@myseneca.ca
+
+Q1.
+
+function isValidRoom(room){
+    if (/^([A-K][0-9][0-9][0-9][0-9][A-Z])/i.test(room) || /^([A-K][0-9][0-9][0-9][0-9])/i.test(room)){
+    return true;
+    }
+    else{
+      return false;
+    }
+  }
+  console.log(isValidRoom("A1034B"));
+
+Q2.
+function repeatList(s,n) {
+    let list = [];
+    for(let i = 0; i < 1; i++) {
+    list.push(s);
+}if(n>1){
+    list.push(s+s);
+}
+if(n>2){
+    list.push(s+s+s);
+}
+        return list;
+    }
+    console.log(repeatList('-',3));
+
+Q3.
+
+function useDelimiter(arr,str){
+    var s = str;
+    for(var i=0;i<arr.length;i++){
+        s = s + arr[i];
+    }
+    var deli = arr.join(str);
+    return deli;
+}
+console.log(useDelimiter([1,2,3],":"));
+
+Q4.
+
+function calculate(n) { let list = [];
+    for(let i = 0; i < n; i++) {
+    list.push((n + i) * n); }
+        return list;
+    }
+    console.log(calculate(3));
+
